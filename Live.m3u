@@ -26,8 +26,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IndiaFreeTV/Channels/refs/heads/main/Logos/yrf-music.png" group-title="Music",YRF Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IndiaFreeTV/Channels/refs/heads/main/Logos/pitaara.png" group-title="Movies",Pitaara Movies
-https://vg-pitaaratvlive.akamaized.net/ptnr-website/title-PitaaraTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IndiaFreeTV/Channels/refs/heads/main/Logos/shemaroo-bollywood.png" group-title="Movies",Shemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
