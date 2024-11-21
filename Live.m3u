@@ -31,7 +31,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IndiaFreeTV/Channels/refs/heads/main/Logos/bollywood-hd.png" group-title="Movies",Bollywood HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IndiaFreeTV/Channels/refs/heads/main/Logos/bollywood-prime.png" group-title="Movies",Bollywood Prime
-https://dai.google.com/linear/hls/pb/event/yvQpXDAeRMGU25KTu--V6Q/stream/d6311ecd-fde8-4218-b6d8-75fba6ba2f8c:TPE2/master.m3u8
+https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IndiaFreeTV/Channels/refs/heads/main/Logos/shemaroo-bollywood.png" group-title="Movies",Shemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
