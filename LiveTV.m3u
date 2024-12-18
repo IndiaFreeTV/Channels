@@ -1,0 +1,37 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IndiaFreeTV/Channels/refs/heads/main/Logos/aaj-tak-hd.png" group-title="News",Aaj Tak HD
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IndiaFreeTV/Channels/refs/heads/main/Logos/india-tv.png" group-title="News",India TV
+https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IndiaFreeTV/Channels/refs/heads/main/Logos/ndtv-india.png" group-title="News",NDTV India
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IndiaFreeTV/Channels/refs/heads/main/Logos/india-today.png" group-title="News",India Today
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IndiaFreeTV/Channels/refs/heads/main/Logos/ndtv-24x7.png" group-title="News",NDTV 24x7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IndiaFreeTV/Channels/refs/heads/main/Logos/showbox.png" group-title="Music",Showbox
+https://epiconvh.s.llnwi.net/live/showbox/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IndiaFreeTV/Channels/refs/heads/main/Logos/gubbare.png" group-title="Kids",Gubbare
+https://epiconvh.s.llnwi.net/gubbare/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IndiaFreeTV/Channels/refs/heads/main/Logos/dangal.png" group-title="Entertainment",Dangal
+https://live-dangal.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IndiaFreeTV/Channels/refs/heads/main/Logos/dangal-2.png" group-title="Entertainment",Dangal 2
+https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IndiaFreeTV/Channels/refs/heads/main/Logos/epic.png" group-title="Entertainment",Epic
+https://epiconvh.s.llnwi.net/epic/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IndiaFreeTV/Channels/refs/heads/main/Logos/aastha-bhajan.png" group-title="Devotional",Aastha Bhajan
+https://aasthaott.akamaized.net/110923/smil:bhajan.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IndiaFreeTV/Channels/refs/heads/main/Logos/sanskar.png" group-title="Devotional",Sanskar HD
+https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IndiaFreeTV/Channels/refs/heads/main/Logos/satsang.png" group-title="Devotional",Satsang TV
+https://d2vfwvjxwtwq1t.cloudfront.net/out/v1/6b24239d5517495b986e7705490c6e65/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IndiaFreeTV/Channels/refs/heads/main/Logos/shubh.png" group-title="Devotional",Shubh HD
+https://d2g1vdc6ozl2o8.cloudfront.net/out/v1/0a0dc7d7911b4fddbb4dfc963fdd4b9e/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IndiaFreeTV/Channels/refs/heads/main/Logos/total-bhakti.png" group-title="Devotional",Total Bhakti
+https://d34z4embz0hjf6.cloudfront.net/out/v1/d55b3323a9f142638f897378f0b526fe/index.m3u8
